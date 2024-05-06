@@ -1,0 +1,13 @@
+detect/
+labelimg-master/
+mahjong-dataset-master/
+*.zip
+*.pt
+*.rar
+video/
+*.pptx
+*.7z
+test image/
+tile/
+reference/
+*.xlsx

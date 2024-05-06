@@ -1,0 +1,41 @@
+# train and val data
+train: /content/FaceMaskDataset/images/train/
+val: /content/FaceMaskDataset/images/val/
+
+# class names
+names: 
+  0: 1p
+  1: 2p
+  2: 3p
+  3: 4p
+  4: 5p
+  5: 6p
+  6: 7p
+  7: 8p
+  8: 9p
+  9: 1s
+  10: 2s
+  11: 3s
+  12: 4s
+  13: 5s
+  14: 6s
+  15: 7s
+  16: 8s
+  17: 9s
+  18: 1m
+  19: 2m
+  20: 3m
+  21: 4m
+  22: 5m
+  23: 6m
+  24: 7m
+  25: 8m
+  26: 9m
+  27: 5z 
+  28: 6z
+  29: 7z
+  30: 1z
+  31: 3z
+  32: 2z
+  33: 4z
+  
